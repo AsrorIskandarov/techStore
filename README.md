@@ -1,2 +1,2 @@
-# techStore
-tech store is created
+# Tech Store
+
